@@ -1,0 +1,110 @@
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\libcrypto-3.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\libcurl.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\librdkafka.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\librdkafkacpp.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\libssl-3.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\msvcp140.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\vcruntime140.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\zlib1.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x86\zstd.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\libcrypto-3-x64.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\libcurl.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\librdkafka.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\librdkafkacpp.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\libssl-3-x64.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\msvcp140.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\vcruntime140.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\zlib1.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\librdkafka\x64\zstd.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\AMV Travel - Hotel.exe.config
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\AMV Travel - Hotel.exe
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\AMV Travel - Hotel.pdb
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Confluent.Kafka.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Buffers.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Memory.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Confluent.Kafka.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Buffers.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Memory.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.exe
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.pdb
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Escritorio\Challenge AMV Travel\AMV Travel - Hotel\AMV Travel - Hotel\obj\Debug\AMV Travel - Hotel.exe.config
